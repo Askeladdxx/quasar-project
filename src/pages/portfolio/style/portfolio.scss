@@ -44,3 +44,18 @@ section {
     height: 400px;
   }
 }
+
+/* Add animation styles */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Apply animation to desired elements */
+.intro-header {
+  animation: fadeIn 1s ease-in;
+}

@@ -3,7 +3,7 @@
     <div class="navbar row justify-between q-mx-xl q-my-none">
       <q-img
         class="navbar-logo q-my-md"
-        src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.15752-9/358816589_962559958161259_5649692621280805571_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGdkrL6Ogqt72vmzmzGpAwo5TyHM5Y6kQ_lPIczljqRDxAqSbUHHqVILOsxbKVc1K2BJ6nUWqU7aF5CqdJvPRDP&_nc_ohc=V9zcfjdnu14AX_vHfil&_nc_ht=scontent.fmnl9-1.fna&oh=03_AdQ8ht69lBwLyQl9cuewDvrZKOhCbAwQHtoy70XDveXTiQ&oe=64D318C0"
+        src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.15752-9/315292169_1151540545459527_6742345507699360817_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=wPR035a2mToAX9TmSQA&_nc_ht=scontent.fmnl4-4.fna&oh=03_AdTlvQ8iJ4gwSI1k0ierjnyGnY59GHCqUksNpUae8tujMA&oe=64DA0CAA"
       />
 
       <div class="flex flex-center">
@@ -20,7 +20,7 @@
           <h1 class="intro-header text-weight-bold q-my-sm">
             Joshua Yves Edellon
           </h1>
-          <h2 class="q-my-none">Creative Portfolio</h2>
+          <h2 class="intro-header q-my-none">Creative Portfolio</h2>
         </div>
         <div class="q-mx-auto">
           <q-img
